@@ -43,6 +43,19 @@ Pour les questions comportementales :
 
 > **Attention :** le résultat doit être réel. « J'ai conçu », « j'ai documenté », « j'ai préparé » sont des verbes sûrs. « J'ai audité », « j'ai trouvé », « j'ai exploité » ne doivent être utilisés que si c'est vrai.
 
+### Parler de vos badges sans les survendre
+
+| Ne dites pas | Dites plutôt | Pourquoi |
+|--------------|--------------|----------|
+| « Je suis certifié Cisco » | « J'ai validé Networking Basics, un cours d'initiation Cisco Networking Academy » | Un recruteur réseau sait qu'un CCNA n'est pas un cours d'initiation |
+| « Je suis certifié IBM en cybersécurité » | « J'ai suivi Cybersecurity Fundamentals sur IBM SkillsBuild » | Un badge de cours n'est pas une certification professionnelle |
+| « J'ai une certification OPSWAT » | « J'ai validé l'Introduction to Critical Infrastructure Protection (ICIP) chez OPSWAT Academy » | Précis et vérifiable |
+| « Je maîtrise les réseaux » | « J'ai les bases : modèle OSI, adressage IP, commutation, routage introductif » | Évite une promesse que l'entretien technique démentira |
+
+> **Règle simple :** citez le **nom exact du badge**, l'**émetteur** et la **date**. Laissez le recruteur juger du niveau. Un badge d'initiation assumé inspire plus confiance qu'une certification gonflée démasquée en dix minutes.
+>
+> **Préparez votre profil Credly public** et gardez l'URL sous la main : un recruteur peut demander à vérifier.
+
 ---
 
 ## 2. Présentation orale de 60 à 90 secondes
@@ -59,9 +72,9 @@ Pour les questions comportementales :
 
 ### Script principal — version « tests documentés, non exécutés »
 
-> **À utiliser uniquement si les tests n'ont pas encore été réalisés.** Durée approximative : 75 secondes.
+> **À utiliser uniquement si les tests n'ont pas encore été réalisés.** Durée approximative : 75 à 85 secondes.
 
-« Bonjour, je m'appelle ISSIFOU Ridwan et je poursuis une formation Cisco / IBM. Pour montrer ma démarche en cybersécurité, j'ai conçu **Network Security Audit Lab**, un projet qui documente sept tests réseau avec Nmap et Wireshark : découverte d'hôtes, scan de ports, détection de services, puis analyse ARP, DNS, TCP et ICMP.
+« Bonjour, je m'appelle ISSIFOU Ridwan. J'ai validé Networking Basics de la Cisco Networking Academy, ainsi que Cybersecurity Fundamentals et IT Fundamentals d'IBM SkillsBuild. Pour montrer ma démarche en cybersécurité, j'ai conçu **Network Security Audit Lab**, un projet qui documente sept tests réseau avec Nmap et Wireshark : découverte d'hôtes, scan de ports, détection de services, puis analyse ARP, DNS, TCP et ICMP.
 Le projet part d'un constat simple : un scan ne vaut rien sans périmètre autorisé, sans preuve et sans limites explicites. J'ai donc structuré un cadre d'autorisation, des procédures avec objectif, prérequis, commandes et interprétation, ainsi qu'un modèle de rapport et un registre de preuves avec empreintes SHA-256.
 Je distingue volontairement les faits observés, les hypothèses et les recommandations : un port ouvert n'est pas une vulnérabilité, et un scan limité ne prouve pas qu'un réseau est sûr.
 Les tests restent à exécuter dans un laboratoire autorisé ; le dépôt est prêt, avec une checklist des preuves à produire. Je cherche un stage où je peux appliquer cette rigueur sur des infrastructures réelles et apprendre aux côtés d'une équipe réseau ou SOC. »

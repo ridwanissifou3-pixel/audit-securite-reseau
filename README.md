@@ -208,8 +208,21 @@ Un tableau de résultats ne doit contenir **aucune ligne « Vérifié »** sans 
 
 ## Auteur et licence
 
-**Auteur :** **ISSIFOU Ridwan** — en formation Cisco / IBM, candidat à un stage en réseaux / cybersécurité.
+**Auteur :** **ISSIFOU Ridwan** — candidat à un stage en réseaux / cybersécurité.
 **Contact :** +228 71 69 24 01
+
+### Formations validées
+
+| Badge | Émetteur | Délivré | Remarque |
+|-------|----------|---------|----------|
+| Networking Basics | Cisco Networking Academy | 19 octobre 2026 | Badge « Verified » sur Credly |
+| Cybersecurity Fundamentals | IBM SkillsBuild | 10 octobre 2026 | Badge Credly |
+| Information Technology Fundamentals | IBM SkillsBuild | 27 octobre 2026 | Badge Credly |
+| Introduction to Critical Infrastructure Protection (ICIP) | OPSWAT | valide jusqu'au 21 août 2027 | Badge Credly |
+
+> **Transparence sur le niveau :** ces badges attestent de **formations d'initiation** validées, pas de certifications professionnelles. Ils ne valent ni CCNA, ni certification IBM professionnelle. Le titre exact du badge OPSWAT est tronqué sur le profil public et doit être confirmé depuis la page Credly avant toute citation en entretien.
+>
+> **Lien de vérification :** à compléter avec l'URL publique du profil Credly — **À réaliser**.
 
 Le contenu de ce dépôt est distribué sous licence **MIT** — voir [LICENSE](LICENSE). Les marques Nmap et Wireshark appartiennent à leurs détenteurs respectifs ; ce projet n'est affilié ni à Nmap Software LLC, ni à la Wireshark Foundation.
 

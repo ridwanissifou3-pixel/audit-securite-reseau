@@ -17,7 +17,7 @@
 | Version | `[0.1 — brouillon]` |
 | Date de rédaction | `[AAAA-MM-JJ]` |
 | Période des tests | `[AAAA-MM-JJ] au [AAAA-MM-JJ]` |
-| Auteur | ISSIFOU Ridwan — en formation Cisco / IBM |
+| Auteur | ISSIFOU Ridwan — Cisco Networking Academy : Networking Basics ; IBM SkillsBuild : Cybersecurity Fundamentals, IT Fundamentals |
 | Relecteur | `[Prénom NOM], [fonction]` |
 | Destinataire | `[Nom, fonction]` |
 | Classification | `[Interne / Confidentiel / Diffusion restreinte]` |
