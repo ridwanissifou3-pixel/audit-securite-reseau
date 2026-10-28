@@ -61,7 +61,7 @@ Pour les questions comportementales :
 
 > **À utiliser uniquement si les tests n'ont pas encore été réalisés.** Durée approximative : 75 secondes.
 
-« Bonjour, je m'appelle [Prénom NOM] et je prépare [formation]. Pour montrer ma démarche en cybersécurité, j'ai conçu **Network Security Audit Lab**, un projet qui documente sept tests réseau avec Nmap et Wireshark : découverte d'hôtes, scan de ports, détection de services, puis analyse ARP, DNS, TCP et ICMP.
+« Bonjour, je m'appelle ISSIFOU Ridwan et je poursuis une formation Cisco / IBM. Pour montrer ma démarche en cybersécurité, j'ai conçu **Network Security Audit Lab**, un projet qui documente sept tests réseau avec Nmap et Wireshark : découverte d'hôtes, scan de ports, détection de services, puis analyse ARP, DNS, TCP et ICMP.
 Le projet part d'un constat simple : un scan ne vaut rien sans périmètre autorisé, sans preuve et sans limites explicites. J'ai donc structuré un cadre d'autorisation, des procédures avec objectif, prérequis, commandes et interprétation, ainsi qu'un modèle de rapport et un registre de preuves avec empreintes SHA-256.
 Je distingue volontairement les faits observés, les hypothèses et les recommandations : un port ouvert n'est pas une vulnérabilité, et un scan limité ne prouve pas qu'un réseau est sûr.
 Les tests restent à exécuter dans un laboratoire autorisé ; le dépôt est prêt, avec une checklist des preuves à produire. Je cherche un stage où je peux appliquer cette rigueur sur des infrastructures réelles et apprendre aux côtés d'une équipe réseau ou SOC. »

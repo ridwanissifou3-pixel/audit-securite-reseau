@@ -17,7 +17,7 @@
 | Version | `[0.1 — brouillon]` |
 | Date de rédaction | `[AAAA-MM-JJ]` |
 | Période des tests | `[AAAA-MM-JJ] au [AAAA-MM-JJ]` |
-| Auteur | `[Prénom NOM], [fonction]` |
+| Auteur | ISSIFOU Ridwan — en formation Cisco / IBM |
 | Relecteur | `[Prénom NOM], [fonction]` |
 | Destinataire | `[Nom, fonction]` |
 | Classification | `[Interne / Confidentiel / Diffusion restreinte]` |
@@ -539,7 +539,7 @@ Une observation sans preuve reste au statut **« À réaliser »** et ne peut pa
 >
 > Je certifie que les résultats présentés dans ce rapport correspondent à des observations réellement effectuées dans le périmètre autorisé, que les preuves associées sont conservées et que les limites sont documentées. Les éléments non réalisés sont explicitement marqués **« À réaliser »**. Aucune vulnérabilité n'est affirmée sans confirmation.
 
-**Nom :** `[Prénom NOM]`
+**Nom :** ISSIFOU Ridwan
 **Date :** `[AAAA-MM-JJ]`
 **Signature :** `[Signature]`
 

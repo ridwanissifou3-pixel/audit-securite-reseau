@@ -208,8 +208,8 @@ Un tableau de résultats ne doit contenir **aucune ligne « Vérifié »** sans 
 
 ## Auteur et licence
 
-**Auteur :** [Votre prénom NOM] — étudiant en [formation], candidat à un stage en réseaux / cybersécurité.
-**Contact :** [adresse e-mail professionnelle] · [profil LinkedIn] · [portfolio]
+**Auteur :** **ISSIFOU Ridwan** — en formation Cisco / IBM, candidat à un stage en réseaux / cybersécurité.
+**Contact :** +228 71 69 24 01
 
 Le contenu de ce dépôt est distribué sous licence **MIT** — voir [LICENSE](LICENSE). Les marques Nmap et Wireshark appartiennent à leurs détenteurs respectifs ; ce projet n'est affilié ni à Nmap Software LLC, ni à la Wireshark Foundation.
 
